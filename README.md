@@ -1,7 +1,7 @@
 FR
 - Bonjour, je m'appelle Séléna (username @selkaus)
 - Je suis actuellement en apprentissage des bases du développement et j'ai comme objectif de continuer vers une formation en web design
-- - Vous pouvez me joindre via email: selenafallpro@gmail.com
+- Vous pouvez me joindre via email: selenafallpro@gmail.com
 
 EN
 - Hello, I’m Selena (username @selkaus)
