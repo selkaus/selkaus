@@ -1,11 +1,11 @@
 FR
 - Bonjour, je m'appelle Séléna Fall (username @selkaus)
-- Je suis actuellement en apprentissage des bases du développement et j'ai comme objectif de continuer vers une formation en web design
+- J'ai suis récemment diplômée d'une formation RNCP niveau 5 et suis actuellement à la recherche d'un emploi ou d'une formation dans le milieu du développement informatique
 - Vous pouvez me joindre via email: selenafallpro@gmail.com
 
 EN
 - Hello, I’m Selena Fall (username @selkaus)
-- I'm currently learning the basis of web developpement and have as a goal to join web design studies
+- I recently graduated from an RNCP Level 5 training and I am currently looking for a job or training in the field of software development.
 - You can reach me through my email: selenafallpro@gmail.com
 
 <!---
